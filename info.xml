@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Products>
+  <product>
+    <code>001</code>
+    <name>Vodka</name>
+    <desc>Russians love this.</desc>
+    <quantity>30</quantity>
+    <price>€24.99</price>
+  </product>
+  <product>
+    <code>002</code>
+    <name>Vanilla Vodka</name>
+    <desc>Tastes of Vanilla.</desc>
+    <quantity>18</quantity>
+    <price>€27.99</price>
+  </product>
+  <product>
+    <code>003</code>
+    <name>Raspberry Vodka</name>
+    <desc>Tastes of Raspberry.</desc>
+    <quantity>14</quantity>
+    <price>€27.99</price>
+  </product>
+  <product>
+    <code>004</code>
+    <name>Tequila</name>
+    <desc>Tastes best with lime and salt.</desc>
+    <quantity>25</quantity>
+    <price>€21.99</price>
+  </product>
+  <product>
+    <code>005</code>
+    <name>Sambuca</name>
+    <desc>Tastes like black liquorice</desc>
+    <quantity>9</quantity>
+    <price>€27.99</price>
+  </product>
+  <product>
+    <code>006</code>
+    <name>Jägermeister</name>
+    <desc>Made by Germany's best.</desc>
+    <quantity>19</quantity>
+    <price>€24.99</price>
+  </product>
+  <product>
+    <code>007</code>
+    <name>Red Vine</name>
+    <desc>Red grape juice.</desc>
+    <quantity>34</quantity>
+    <price>€39.99</price>
+  </product>
+  <product>
+    <code>008</code>
+    <name>White Vine</name>
+    <desc>The best from France.</desc>
+    <quantity>29</quantity>
+    <price>€34.99</price>
+  </product>
+  <product>
+    <code>009</code>
+    <name>Jack Daniel's</name>
+    <desc>Jack Daniel's is a brand of Tennessee whiskey.</desc>
+    <quantity>20</quantity>
+    <price>€27.99</price>
+  </product>
+  <product>
+    <code>010</code>
+    <name>Fireball</name>
+    <desc>Fireball is a Cinnamon Whisky.</desc>
+    <quantity>8</quantity>
+    <price>€24.99</price>
+  </product>
+  <product>
+    <code>011</code>
+    <name>Jameson</name>
+    <desc>Jameson is Irish Whisky.</desc>
+    <quantity>12</quantity>
+    <price>€26.99</price>
+  </product>
+  <product>
+    <code>012</code>
+    <name>Wild Turkey </name>
+    <desc>Wil Turkey  Whisky.</desc>
+    <quantity>5</quantity>
+    <price>€29.99</price>
+  </product>
+
+</Products>

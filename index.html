@@ -10,16 +10,21 @@
     <title>Document</title>
   </head>
   <body>
-    <input id="searchBar" oninput="searchProductsByCode()" placeholder="Enter Product Code" type="text"></input>
+    <div class="mainWrapper">
+      <h3>Alcohol Shop</h3>
+      <input id="searchBar" oninput="searchProductsByCode()" placeholder="Enter Product Code" type="text"></input>
 
-    <table id="theTable">
-      <tr>
-        <th>Code</th>
-        <th>Name</th>
-        <th>Desc</th>
-        <th>Quantity</th>
-        <th>Price</th>
-      </tr>
-    </table>
+      <table id="theTable">
+        <thead>
+          <tr>
+            <th>Code</th>
+            <th>Name</th>
+            <th>Desc</th>
+            <th>Quantity</th>
+            <th>Price</th>
+          </tr>
+      </thead>
+      </table>
+    </div>
   </body>
 </html>

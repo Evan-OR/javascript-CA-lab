@@ -3,7 +3,7 @@
 <Products>
   <product>
     <code>001</code>
-    <name>Vodka</name>
+    <name>Smirnoff Vodka</name>
     <desc>Russians love this.</desc>
     <quantity>30</quantity>
     <price>€24.99</price>
@@ -81,9 +81,86 @@
   <product>
     <code>012</code>
     <name>Wild Turkey </name>
-    <desc>Wil Turkey  Whisky.</desc>
+    <desc>Wild Turkey Whisky.</desc>
     <quantity>5</quantity>
     <price>€29.99</price>
+  </product>
+  <product>
+    <code>013</code>
+    <name>Bombay Sapphire Gin</name>
+    <desc>Distilled London dry gin.</desc>
+    <quantity>13</quantity>
+    <price>€22.10</price>
+  </product>
+  <product>
+    <code>014</code>
+    <name>Gordons Gin</name>
+    <desc>London dry gin.</desc>
+    <quantity>17</quantity>
+    <price>€30.00</price>
+  </product>
+  <product>
+    <code>015</code>
+    <name>Beefeater Pink Gin</name>
+    <desc>Pink Strawberry Flavoured Gin.</desc>
+    <quantity>9</quantity>
+    <price>€21.00</price>
+  </product>
+  <product>
+    <code>016</code>
+    <name>Beefeater Pink Gin</name>
+    <desc>Pink Strawberry Flavoured Gin.</desc>
+    <quantity>11</quantity>
+    <price>€24.76</price>
+  </product>
+  <product>
+    <code>017</code>
+    <name>Bacardi Carta Blanca</name>
+    <desc>Carta Blanca White Rum.</desc>
+    <quantity>33</quantity>
+    <price>€20.72</price>
+  </product>
+  <product>
+    <code>018</code>
+    <name>Captain Morgan</name>
+    <desc>Captain Morgan Original Spiced Gold.</desc>
+    <quantity>37</quantity>
+    <price>€19.99</price>
+  </product>
+  <product>
+    <code>019</code>
+    <name>Malibu White Rum</name>
+    <desc>White Rum with Coconut Flavour.</desc>
+    <quantity>21</quantity>
+    <price>€24.00</price>
+  </product>
+  <product>
+    <code>020</code>
+    <name>Kraken Spiced Rum</name>
+    <desc>Imported rum from the Caribbean.</desc>
+    <quantity>15</quantity>
+    <price>€26.00</price>
+  </product>
+  <product>
+    <code>021</code>  
+    <name>Hennessy</name>
+    <desc>Hennessy Very Special Cognac.</desc>
+    <quantity>18</quantity>
+    <price>€30.00</price>
+  </product>
+  <product>
+    <code>022</code>
+    <name>Absolut Vodka</name>
+    <desc>Original Swedish Vodka.</desc>
+    <quantity>26</quantity>
+    <price>€22.99</price>
+  </product>
+  <product>
+    <code>022</code>
+    <name>Absolut Vanilla Vodka</name>
+    <desc>Absolut Vanilla Vodka.</desc>
+    <quantity>21</quantity>
+    <price>€21.99</price>
   </product>
 
 </Products>
